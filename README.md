@@ -1,6 +1,6 @@
 # phobia-circles
 
-(Try it HERE)[https://andersclark.github.io/phobia-circles/]
+[Try it HERE](https://andersclark.github.io/phobia-circles/)
 
 ## Whyyyyyuy?
 
